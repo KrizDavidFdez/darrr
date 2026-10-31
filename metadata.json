@@ -1,0 +1,6 @@
+{
+  "name": "BrowserFlow & ScrapeAPI Pro",
+  "description": "Production-grade Puppeteer & Playwright automation API and Web Studio ready for Koyeb and Vercel deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
